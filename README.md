@@ -7,3 +7,6 @@ vital to be able to find the information.
 
 Exobrain allows you to traverse these large datasets offline!
 
+
+[![Build Status](https://travis-ci.org/windelbouwman/exobrain.svg?branch=master)](https://travis-ci.org/windelbouwman/exobrain)
+
